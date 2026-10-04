@@ -1,0 +1,6 @@
+{
+  "name": "Snake Area – Jeu Snake multijoueur gratuit en ligne",
+  "description": "Jouez à Snake Area, un jeu Snake multijoueur gratuit en ligne. Affrontez d'autres joueurs, améliorez votre score et devenez le meilleur !",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

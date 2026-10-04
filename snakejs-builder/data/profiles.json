@@ -1,0 +1,382 @@
+{
+  "local_player": {
+    "id": "local_player",
+    "name": "Vipère",
+    "coins": 432,
+    "level": 8,
+    "xp": 101,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_cobra",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime",
+      "ocean_wave",
+      "solar_flare",
+      "magma_flame"
+    ],
+    "equippedSkinId": "magma_flame",
+    "stats": {
+      "gamesPlayed": 38,
+      "wins": 0,
+      "totalKills": 6,
+      "bestScore": 151,
+      "bestMass": 151,
+      "totalPlayTime": 412
+    },
+    "updatedAt": 1790362119425
+  },
+  "acc_207bceb9b47abdb3adf38c1f8060f637": {
+    "coins": 200,
+    "level": 1,
+    "xp": 0,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 3,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 41,
+      "bestMass": 41,
+      "totalPlayTime": 6
+    },
+    "id": "acc_207bceb9b47abdb3adf38c1f8060f637",
+    "name": "Vipère",
+    "updatedAt": 1790362328631
+  },
+  "acc_7649080e1d0d52332baaf2e1531f9217": {
+    "coins": 200,
+    "level": 1,
+    "xp": 0,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 3,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 41,
+      "bestMass": 41,
+      "totalPlayTime": 6
+    },
+    "id": "acc_7649080e1d0d52332baaf2e1531f9217",
+    "name": "HackedName",
+    "updatedAt": 1790362343287
+  },
+  "acc_41979bff659d42b6d9586a4ac642cca3": {
+    "coins": 208,
+    "level": 1,
+    "xp": 51,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 3,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 41,
+      "bestMass": 41,
+      "totalPlayTime": 6
+    },
+    "id": "acc_41979bff659d42b6d9586a4ac642cca3",
+    "name": "Vipère",
+    "updatedAt": 1790362345891
+  },
+  "acc_fbf2a6a5a7d27e52d73bd07c15484bce": {
+    "coins": 200,
+    "level": 1,
+    "xp": 0,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 3,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 41,
+      "bestMass": 41,
+      "totalPlayTime": 6
+    },
+    "id": "acc_fbf2a6a5a7d27e52d73bd07c15484bce",
+    "name": "HackedName",
+    "updatedAt": 1790362358057
+  },
+  "acc_cafe1cad98604c0c7bb349b42aa6052d": {
+    "coins": 200,
+    "level": 1,
+    "xp": 0,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 3,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 41,
+      "bestMass": 41,
+      "totalPlayTime": 6
+    },
+    "id": "acc_cafe1cad98604c0c7bb349b42aa6052d",
+    "name": "Vipère",
+    "updatedAt": 1790362358039
+  },
+  "acc_afbbd69659e10681ceaa2188a071811f": {
+    "coins": 208,
+    "level": 1,
+    "xp": 51,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 3,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 41,
+      "bestMass": 41,
+      "totalPlayTime": 6
+    },
+    "id": "acc_afbbd69659e10681ceaa2188a071811f",
+    "name": "Vipère",
+    "updatedAt": 1790362358714
+  },
+  "acc_7516d8632fee04380f9c35e63bd461fb": {
+    "coins": 208,
+    "level": 1,
+    "xp": 51,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 3,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 41,
+      "bestMass": 41,
+      "totalPlayTime": 6
+    },
+    "id": "acc_7516d8632fee04380f9c35e63bd461fb",
+    "name": "Vipère",
+    "updatedAt": 1790362358713
+  },
+  "acc_961193afd9af06649ccd16e9dfe26ac2": {
+    "coins": 200,
+    "level": 1,
+    "xp": 0,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 0,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 0,
+      "bestMass": 0,
+      "totalPlayTime": 0
+    },
+    "id": "acc_961193afd9af06649ccd16e9dfe26ac2",
+    "name": "Vipère",
+    "updatedAt": 1790362392508
+  },
+  "acc_805ff4f4abcedcac93a88149607e8ecc": {
+    "coins": 50,
+    "level": 1,
+    "xp": 0,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 2,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 40,
+      "bestMass": 40,
+      "totalPlayTime": 4
+    },
+    "id": "acc_805ff4f4abcedcac93a88149607e8ecc",
+    "name": "HackedName",
+    "updatedAt": 1790362529254
+  },
+  "acc_ca8808c03a8e2fa7e5d7cadc370e7e66": {
+    "coins": 50,
+    "level": 1,
+    "xp": 0,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 2,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 40,
+      "bestMass": 40,
+      "totalPlayTime": 4
+    },
+    "id": "acc_ca8808c03a8e2fa7e5d7cadc370e7e66",
+    "name": "Vipère",
+    "updatedAt": 1790362529228
+  },
+  "acc_c1ff304448cd5be01517a53150cfb758": {
+    "coins": 52,
+    "level": 1,
+    "xp": 51,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 2,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 40,
+      "bestMass": 40,
+      "totalPlayTime": 4
+    },
+    "id": "acc_c1ff304448cd5be01517a53150cfb758",
+    "name": "Vipère",
+    "updatedAt": 1790362529907
+  },
+  "acc_bf1b61745ba1d778bf65dc3d9f3fe256": {
+    "coins": 52,
+    "level": 1,
+    "xp": 51,
+    "rank": "Bronze III",
+    "rr": 0,
+    "avatarId": "avatar_viper",
+    "unlockedAvatars": [
+      "avatar_viper",
+      "avatar_cobra",
+      "avatar_neon"
+    ],
+    "unlockedSkins": [
+      "cyber_cyan",
+      "toxic_lime"
+    ],
+    "equippedSkinId": "cyber_cyan",
+    "stats": {
+      "gamesPlayed": 2,
+      "wins": 0,
+      "totalKills": 0,
+      "bestScore": 40,
+      "bestMass": 40,
+      "totalPlayTime": 4
+    },
+    "id": "acc_bf1b61745ba1d778bf65dc3d9f3fe256",
+    "name": "Vipère",
+    "updatedAt": 1790362529906
+  }
+}

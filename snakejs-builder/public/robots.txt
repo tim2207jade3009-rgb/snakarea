@@ -1,0 +1,17 @@
+# Robots.txt for Snake Area
+# https://snakarena.ai.studio/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /api/auth/
+Disallow: /api/stripe/
+Disallow: /api/webhooks/
+
+User-agent: *
+Allow: /
+Disallow: /api/auth/
+Disallow: /api/stripe/
+Disallow: /api/webhooks/
+
+# Sitemap location
+Sitemap: https://snakarena.ai.studio/sitemap.xml
